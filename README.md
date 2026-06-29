@@ -193,6 +193,3 @@ Repository GitHub:
 
 ---
 
-# 📄 Lisensi
-
-Project ini dibuat untuk memenuhi tugas **Ujian Akhir Semester (UAS)** Mata Kuliah **Pemrograman Web 2** di bawah bimbingan **Agung Nugroho, S.Kom., M.Kom.**
