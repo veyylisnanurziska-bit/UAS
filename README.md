@@ -175,6 +175,10 @@ Repository GitHub:
 
 **https://github.com/veyylisnanurziska-bit/UAS**
 
+## Repository Praktikum Pemrograman Web 2
+
+https://github.com/Novellysna/lab7_web
+
 ---
 
 # 🎥 Link Video Presentasi
